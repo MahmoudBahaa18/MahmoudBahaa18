@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="mb-background.webp"  />
+  <img width="60%" src="mb-background.webp"  />
 </div>
 
 
