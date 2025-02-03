@@ -1,16 +1,11 @@
 <div align="center">
-  <img height="200" src="mb-background.webp"  />
+  <img width="100%" src="mb-background.webp"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2F2p24444g94djp87cxkhw.gif"  />
-
-###
 
 <h2 align="left">Hi 👋! My name is Mahmoud Bahaa and I'm a Full Stack developer from Egypt</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -74,7 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -84,5 +79,8 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahmoudBahaa18/MahmoudBahaa18/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahmoudBahaa18/MahmoudBahaa18/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MahmoudBahaa18/MahmoudBahaa18/output/github-snake.svg" />
+</picture>
