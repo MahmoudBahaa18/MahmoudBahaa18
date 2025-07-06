@@ -1,5 +1,5 @@
-<div align="center" width="400px">
-  <img width="100%" src="bg.jpg"  />
+<div style="width: 100%; display: flex; justify-content: center;">
+  <img src="bg.jpg" alt="background" style="width: 100%; max-width: 900px; height: auto;" />
 </div>
 
 
